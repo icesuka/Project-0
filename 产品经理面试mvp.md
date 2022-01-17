@@ -13,4 +13,4 @@
 * 项目主要使用的编程语言是 sql、hql、python
 * 以python为基础的数据分析报表，后期随着能力提升会逐步结合**数据可视化**、**网络爬虫**的相关内容
 * .ipynb 可以用 jupyter notebook 打开
-> jupyter notebook 是一种网页交互形式的 python 编辑器，直接通过 pip 安装，也支持 markdown，很适合用来做数据分析可视化以及写文章、写示例代码等。
+> jupyter notebook 是一种网页交互形式的 python 编辑器，支持 markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
