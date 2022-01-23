@@ -4,8 +4,8 @@
 * 该项目是本人的产品经理项目集合，作为平时学习的总结和后期的复盘
 * 部分文件包含数据分析及可视化的项目，用来支撑需求调研/高保真原型，数据来源于网络上的数据集/自己建表
 * 收入了涉足产品方向的部分书目的思维导图
-* 长期在互联网产品方向工作，精进业务能力和基础技能
-* 在做好产品经理工作的基础上，适当提高技术能力和设计能力
+* 在互联网领域深耕，精进业务能力和软硬实力
+* 做好产品经理工作的基础上，精进技术能力和设计能力
 ## 书目索引
 * [《幕后产品》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%B9%95%E5%90%8E%E4%BA%A7%E5%93%81.md) 
 * [《俞军产品方法论》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E4%BF%9E%E5%86%9B%E4%BA%A7%E5%93%81%E6%96%B9%E6%B3%95%E8%AE%BA.md)
@@ -27,6 +27,9 @@
 * [《增长黑客&硅谷增长黑客实战笔记》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2%26%E7%A1%85%E8%B0%B7%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0.md)  
 * [《精益创业》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A.md)  
 * [《精益数据分析》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E7%B2%BE%E7%9B%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)  
+## 项目展示
+###原型演示
+* [SHY-01-Newphile](https://lanhuapp.com/web/#/item/project/product?pid=8e03e3c1-0242-4804-bbb6-f041e21d3123&versionId=f7b3d429-05d3-408c-8700-50d5c75168b9&docId=11e20c76-3bf5-4515-86ee-098cb69d5a25&docType=axure&pageId=c3a3e16d4cfb4af88452618e5f72ac15&image_id=11e20c76-3bf5-4515-86ee-098cb69d5a25&parentId=41024a55-099d-4a81-a929-80d48f5dba9d&pwd=mQFv&teamId=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&userId=7d7f0c92-b505-4fa6-b9ea-ec764b04eafa&activeSectionId=)
 ## tips
 采用不同的技术栈，通过对不同行业的数据集进行分析，期望达到以下目的：
 * 有意培养数据敏感度和分析技能，提高工作效率
