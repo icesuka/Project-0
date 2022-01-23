@@ -45,15 +45,10 @@
 #### list
 
 | 名称 | 定位 | 技术 | 源文件 |
-| :--: | ---- | ---- | ------ |
-|[Newphile](https://lanhuapp.com/web/#/item/project/product?pid=8e03e3c1-0242-4804-bbb6-f041e21d3123&versionId=f7b3d429-05d3-408c-8700-50d5c75168b9&docId=11e20c76-3bf5-4515-86ee-098cb69d5a25&docType=axure&pageId=c3a3e16d4cfb4af88452618e5f72ac15&image_id=11e20c76-3bf5-4515-86ee-098cb69d5a25&parentId=41024a55-099d-4a81-a929-80d48f5dba9d&pwd=mQFv&teamId=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&userId=7d7f0c92-b505-4fa6-b9ea-ec764b04eafa&activeSectionId=)|Axure高保真原型|Axure+Sketch|暂无|
-|      |      |      |        |
-|      |      |      |        |
-
-
-1. [Newphile](https://lanhuapp.com/web/#/item/project/product?pid=8e03e3c1-0242-4804-bbb6-f041e21d3123&versionId=f7b3d429-05d3-408c-8700-50d5c75168b9&docId=11e20c76-3bf5-4515-86ee-098cb69d5a25&docType=axure&pageId=c3a3e16d4cfb4af88452618e5f72ac15&image_id=11e20c76-3bf5-4515-86ee-098cb69d5a25&parentId=41024a55-099d-4a81-a929-80d48f5dba9d&pwd=mQFv&teamId=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&userId=7d7f0c92-b505-4fa6-b9ea-ec764b04eafa&activeSectionId=)（Axure高保真原型）
-2. 一款成熟APP的临摹(预制作阶段)(Sketch设计稿+Axure交互)
-3. 一款垂直领域APP的原型制作(头脑风暴阶段,Sketch+Axure+`Javascirpt`)
+| :--: | ---- | ---- | ----- |
+|[Newphile](https://lanhuapp.com/web/#/item/project/product?pid=8e03e3c1-0242-4804-bbb6-f041e21d3123&versionId=f7b3d429-05d3-408c-8700-50d5c75168b9&docId=11e20c76-3bf5-4515-86ee-098cb69d5a25&docType=axure&pageId=c3a3e16d4cfb4af88452618e5f72ac15&image_id=11e20c76-3bf5-4515-86ee-098cb69d5a25&parentId=41024a55-099d-4a81-a929-80d48f5dba9d&pwd=mQFv&teamId=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&userId=7d7f0c92-b505-4fa6-b9ea-ec764b04eafa&activeSectionId=)|社交APP（高保真原型）|Axure+Sketch+Ps|暂无|
+|APP临摹(预制作阶段)|全民软件(线框图)|Axure+Sketch|暂无|
+|全新的APP(头脑风暴阶段)|垂直领域|Sketch+Axure+Ps+`Javascirpt`|暂无|
 ## tips
 采用不同的技术栈，通过对不同行业的数据集进行分析，期望达到以下目的：
 * 有意培养数据敏感度和分析技能，提高工作效率
