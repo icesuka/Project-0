@@ -1,4 +1,5 @@
 # <p align="center">-1岁pm——开启从0向1的第一步</p>
+[![Author](https://img.shields.io/badge/Python-3-blue.svg "Python")](https://ACGkaka.github.io "Author")
 ## 简介
 * 互联网非技术人员的一次最小可行性产品（包含整个项目的完成过程）
 * 该项目是本人的产品经理项目集合，作为平时学习的总结和后期的复盘
@@ -30,7 +31,6 @@
 ## 项目展示
 该部分为实践的demo集合，每个项目都有文档或导图加以辅助说明
 ### 原型文件演示
-[![Author](https://img.shields.io/badge/Author-ACGkaka-red.svg "Author")](https://ACGkaka.github.io "Author")
 #### tips
 采用**Axure**作为主要的原型绘制软件，**PS**、**Sketch**作为绘图辅助，**Xmind**为思维导图软件，**Office**文件为补充说明，期望达到以下目的：
 * 能够用多种方式（线框图、高保真等）呈现原型
