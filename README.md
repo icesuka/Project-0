@@ -5,7 +5,7 @@
 * 部分文件包含数据分析及可视化的项目，用来支撑需求调研/高保真原型，数据来源于网络上的数据集/自己建表
 * 收入了涉足产品方向的部分书目的思维导图
 ## 书目索引
-* [dys直播](https://live.bilibili.com/7777?spm_id_from=333.1007.0.0.com) 
+* [幕后产品](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%B9%95%E5%90%8E%E4%BA%A7%E5%93%81.md) 
 ## tips
 采用不同的技术栈，通过对不同行业的数据集进行分析，期望达到以下目的：
 * 有意培养数据敏感度和分析技能，提高工作效率
