@@ -1,8 +1,10 @@
 # <p align="center">-1岁pm——开启从0向1的第一步</p>
-![shy](https://img.shields.io/badge/Python版本-3-blue.svg "Python")
+![shy](https://img.shields.io/badge/Python-3-blue.svg "Python")
 ![shy](https://img.shields.io/badge/state-update-green.svg "Python")
 ![shy](https://img.shields.io/badge/contributor-1-pink.svg "Python")
 ![shy](https://img.shields.io/badge/思维导图-Xmind-red.svg "Python")
+![shy](https://img.shields.io/badge/sql-Mysql-lightblue.svg "Python")
+![shy](https://img.shields.io/badge/原型-Axure-lightgreen.svg "Python")
 
 ## 简介
 * 互联网非技术人员的一次最小可行性产品（包含整个项目的完成过程）
