@@ -7,7 +7,7 @@
 * 在互联网领域深耕，精进业务能力和软硬实力
 * 做好产品经理工作的基础上，精进技术能力和设计能力
 ## 书目索引
-* 《[幕后产品]》(https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%B9%95%E5%90%8E%E4%BA%A7%E5%93%81.md) 
+* 《[幕后产品](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%B9%95%E5%90%8E%E4%BA%A7%E5%93%81.md) 》
 * [《俞军产品方法论》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E4%BF%9E%E5%86%9B%E4%BA%A7%E5%93%81%E6%96%B9%E6%B3%95%E8%AE%BA.md)
 * [《结网》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E7%BB%93%E7%BD%91.md)  
 * [《决胜B端》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%86%B3%E8%83%9CB%E7%AB%AF.md)  
