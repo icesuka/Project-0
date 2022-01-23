@@ -7,7 +7,7 @@
 * 在互联网领域深耕，精进业务能力和软硬实力
 * 做好产品经理工作的基础上，精进技术能力和设计能力
 ## 书目索引
-* [《幕后产品》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%B9%95%E5%90%8E%E4%BA%A7%E5%93%81.md) 
+* 《[幕后产品]》(https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%B9%95%E5%90%8E%E4%BA%A7%E5%93%81.md) 
 * [《俞军产品方法论》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E4%BF%9E%E5%86%9B%E4%BA%A7%E5%93%81%E6%96%B9%E6%B3%95%E8%AE%BA.md)
 * [《结网》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E7%BB%93%E7%BD%91.md)  
 * [《决胜B端》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%86%B3%E8%83%9CB%E7%AB%AF.md)  
@@ -37,10 +37,7 @@
 * 深化数据处理、数据分析、数据可视化能力
 * 增加实战经验
 ## Components
-* 项目主要使用的编程语言是 sql、hql、python
+* 项目主要使用的编程语言是 `mysql`、`python`
 * 以python为基础的数据分析报表，后期随着能力提升会逐步结合**数据可视化**、**网络爬虫**的相关内容
 * .ipynb 可以用 jupyter notebook 打开
 > jupyter notebook 是一种网页交互形式的 python 编辑器，支持 markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
-## wishes
-
-
