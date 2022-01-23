@@ -1,5 +1,5 @@
 # <p align="center">-1岁pm——开启从0向1的第一步</p>
-[![Author](https://img.shields.io/badge/Python-3-blue.svg "Python")]
+![Author](https://img.shields.io/badge/Python-3-blue.svg "Python")
 ## 简介
 * 互联网非技术人员的一次最小可行性产品（包含整个项目的完成过程）
 * 该项目是本人的产品经理项目集合，作为平时学习的总结和后期的复盘
