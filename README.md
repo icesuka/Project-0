@@ -1,5 +1,5 @@
 # <p align="center">-1岁pm——开启从0向1的第一步</p>
-![shy](https://img.shields.io/badge/state-更新中-lightgreen.svg)
+![shy](https://img.shields.io/badge/state-更新中-green.svg)
 ![shy](https://img.shields.io/badge/原型-Axure-purple.svg)
 ![shy](https://img.shields.io/badge/contributor-1-pink.svg)
 ![shy](https://img.shields.io/badge/思维导图-Xmind-red.svg)
