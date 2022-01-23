@@ -4,6 +4,8 @@
 * 该项目是本人的产品经理项目集合，作为平时学习的总结和后期的复盘
 * 部分文件包含数据分析及可视化的项目，用来支撑需求调研/高保真原型，数据来源于网络上的数据集/自己建表
 * 收入了涉足产品方向的部分书目的思维导图
+* 长期在互联网产品方向工作，精进业务能力和基础技能
+* 在做好产品经理工作的基础上，适当提高技术能力和设计能力
 ## 书目索引
 * [《幕后产品》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E5%B9%95%E5%90%8E%E4%BA%A7%E5%93%81.md) 
 * [《俞军产品方法论》](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E4%BF%9E%E5%86%9B%E4%BA%A7%E5%93%81%E6%96%B9%E6%B3%95%E8%AE%BA.md)
@@ -37,6 +39,5 @@
 * .ipynb 可以用 jupyter notebook 打开
 > jupyter notebook 是一种网页交互形式的 python 编辑器，支持 markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
 ## wishes
-* 长期在互联网产品方向工作，精进业务能力和基础技能
-* 在做好产品经理工作的基础上，适当提高技术能力和设计能力
+
 
