@@ -77,5 +77,6 @@
 ## refer
 产品&资讯
 > 1.[人人都是产品经理](http://www.woshipm.com/)<br/>2.[PMCAFF](http://coffee.pmcaff.com/)<br/>3.[36kr](http://36kr.com/)<br/>4.[少数派](https://sspai.com/)<br/> 
+
 数据指标&网站
 > 1.[谷歌统计](http://marketingplatform.google.com/about/)<br/>2.[百度指数](https://index.baidu.com/v2/index.html#/)<br/>3.[微信指数](http://kf.qq.com/touch/wxappfaq/170418jamiYn170418NzEVFJ.html?platform=15)<br/>4.[头条指数](http://index.toutiao.com/)<br/>5.[友盟](http://www.umeng.com/)<br/>6.[七麦数据ASO100](http://www.qimai.cn/)<br/>6.[神测数据](https://www.sensorsdata.cn/demo/demo.html)<br/>7.[艾瑞网](http://www.iresearch.cn/mindex.shtml)
