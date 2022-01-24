@@ -50,22 +50,26 @@
 |全新的APP(头脑风暴阶段)|垂直领域|Sketch+Axure+Ps+`Javascirpt`|暂无|
 ### 代码项目演示
 #### tips
-采用不同的技术栈，通过对不同行业的数据集进行分析，期望达到以下目的：
-* 有意培养数据敏感度和分析技能，提高工作效率
-* 了解不同维度的数据分析指标
-* 深化数据处理、数据分析、数据可视化能力
-* 增加实战经验
+采用不同的技术栈，对某一维度的数据进行分析，使工作效率显著提高：
+* 数据建表、数据清洗、数据分析、数据可视化
+* 为原型产出提供数据支撑
+* 数据分析及可视化：`mysql`、`python`、`numpy`、`pandas`、`matplotlib`、`seaborn`、`pyecharts`  
+* 后期可能的发展方向：**爬虫**、**Axure&JavaScript高保真**
 #### list
 
 | 主题 | 处理方式 | 技术栈 | 数据集 |
 | :--: | :------: | :----: | :----: |
 |      |          |        |        |
 |      |          |        |        |
-|      |          |        |        |
-
-
-## Components
-* 项目主要使用的编程语言是 `mysql`、`python`
-* 以python为基础的数据分析报表，后期随着能力提升会逐步结合**数据可视化**、**网络爬虫**的相关内容
-* .ipynb 可以用 jupyter notebook 打开
-> jupyter notebook 是一种网页交互形式的 python 编辑器，支持 markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
+> rp:Axure生成的文件格式
+> sketch:Sketch生成的文件格式
+> Psd:Photoshop生成的文件类型
+> sql:mysql生成的文件格式
+> python:开放的源代码，拥有强大的社区和生态圈，本文主要应用数据分析。
+>> `numpy`:用Python进行科学计算的基础软件包。
+>> `pandas`:提供快速，灵活和表达性数据结构的Python包，旨在使“关系”或“标记”数据变得简单直观。
+>> `matplotlib`:Python的2D绘图库，它以各种硬拷贝格式和跨平台的交互式环境生成出版质量级别的图形。
+>> `seaborn`:基于matplotlib且数据结构与pandas统一的统计图制作库。
+>> `pyecharts`:由百度开源的数据可视化，有着良好的交互性，精巧的图表设计。
+>> .ipynb:一种用jupyter notebook打开的python文件格式
+>> jupyter notebook:一种网页交互形式的python编辑器，支持markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
