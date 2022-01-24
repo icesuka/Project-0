@@ -63,7 +63,7 @@
 |      |          |        |        |
 > rp:Axure生成的文件格式
 
-> sketch:Sketch生成的文件格式
+sketch:Sketch生成的文件格式
 > Psd:Photoshop生成的文件类型
 > sql:mysql生成的文件格式
 > python:开放的源代码，拥有强大的社区和生态圈，本文主要应用数据分析。
