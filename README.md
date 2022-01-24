@@ -75,4 +75,4 @@
 - `.ipynb`:一种用jupyter notebook打开的python文件格式。
 - `jupyter notebook`:一种网页交互形式的python编辑器，支持markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
 ## refer
-> 1. [人人都是产品经理](http://www.woshipm.com/)<br/> 2. [PMCAFF](http://coffee.pmcaff.com/)<br/> 3.  
+> 1. [人人都是产品经理](http://www.woshipm.com/)<br/>2. [PMCAFF](http://coffee.pmcaff.com/)<br/>3.  
