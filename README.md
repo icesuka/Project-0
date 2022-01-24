@@ -62,6 +62,7 @@
 |      |          |        |        |
 |      |          |        |        |
 > rp:Axure生成的文件格式
+
 > sketch:Sketch生成的文件格式
 > Psd:Photoshop生成的文件类型
 > sql:mysql生成的文件格式
