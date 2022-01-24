@@ -72,5 +72,10 @@
 - `matplotlib`:Python的2D绘图库，它以各种硬拷贝格式和跨平台的交互式环境生成出版质量级别的图形。
 - `seaborn`:基于matplotlib且数据结构与pandas统一的统计图制作库。
 - `pyecharts`:由百度开源的数据可视化，有着良好的交互性，精巧的图表设计。
-- `.ipynb`:一种用jupyter notebook打开的python文件格式
+- `.ipynb`:一种用jupyter notebook打开的python文件格式。
 - `jupyter notebook`:一种网页交互形式的python编辑器，支持markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
+## refer
+>1
+>2
+>3
+>4
