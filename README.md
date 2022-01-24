@@ -61,26 +61,16 @@
 | :--: | :------: | :----: | :----: |
 |      |          |        |        |
 |      |          |        |        |
-> rp:Axure生成的文件格式
-
-> sketch:Sketch生成的文件格式
-
-> Psd:Photoshop生成的文件类型
-
-> sql:mysql生成的文件格式
-
-> python:开放的源代码，拥有强大的社区和生态圈，本文主要应用数据分析。
-
->> `numpy`:用Python进行科学计算的基础软件包。
-
->> `pandas`:提供快速，灵活和表达性数据结构的Python包，旨在使“关系”或“标记”数据变得简单直观。
-
->> `matplotlib`:Python的2D绘图库，它以各种硬拷贝格式和跨平台的交互式环境生成出版质量级别的图形。
-
->> `seaborn`:基于matplotlib且数据结构与pandas统一的统计图制作库。
-
->> `pyecharts`:由百度开源的数据可视化，有着良好的交互性，精巧的图表设计。
-
->> .ipynb:一种用jupyter notebook打开的python文件格式
-
->> jupyter notebook:一种网页交互形式的python编辑器，支持markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
+### 名词解释
+- rp:Axure生成的文件格式
+- sketch:Sketch生成的文件格式
+- Psd:Photoshop生成的文件类型
+- sql:mysql生成的文件格式
+- python:开放的源代码，拥有强大的社区和生态圈，本文主要应用数据分析。
+- `numpy`:用Python进行科学计算的基础软件包。
+- `pandas`:提供快速，灵活和表达性数据结构的Python包，旨在使“关系”或“标记”数据变得简单直观。
+- `matplotlib`:Python的2D绘图库，它以各种硬拷贝格式和跨平台的交互式环境生成出版质量级别的图形。
+- `seaborn`:基于matplotlib且数据结构与pandas统一的统计图制作库。
+- `pyecharts`:由百度开源的数据可视化，有着良好的交互性，精巧的图表设计。
+- .ipynb:一种用jupyter notebook打开的python文件格式
+- jupyter notebook:一种网页交互形式的python编辑器，支持markdown语法，适合轻量级的数据分析可视化以及写文章、写示例代码等。
