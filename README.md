@@ -58,7 +58,7 @@
 #### list
 
 | 主题 |  方法  | 主要技术栈 | 数据集来源 |
-| ------ |- | ----- | ----- |
+| ---- |---- | ---- | ---- |
 |数据报表|离线处理|分析mysql/pandas+清洗pandas+可视化seaborn|[阿里云天池](https://tianchi.aliyun.com/?spm=5176.12282013.J_3941670930.9.4fdf13dehbY01G)/[kaggle](https://www.kaggle.com/datasets?topic=trendingDataset)/自建数据集|
 |《长津湖之水门桥》票房、影评情感分析|离线处理|爬虫+分析pandas+可视化pyecharts+matplotlib|《[长津湖之水门桥](https://www.maoyan.com/films/1446115)》|
 ### 名词解释
