@@ -47,7 +47,7 @@
 | ---- | ---- | ---- | ----- |
 |[Newphile](https://lanhuapp.com/web/#/item/project/product?pid=8e03e3c1-0242-4804-bbb6-f041e21d3123&versionId=f7b3d429-05d3-408c-8700-50d5c75168b9&docId=11e20c76-3bf5-4515-86ee-098cb69d5a25&docType=axure&pageId=c3a3e16d4cfb4af88452618e5f72ac15&image_id=11e20c76-3bf5-4515-86ee-098cb69d5a25&parentId=41024a55-099d-4a81-a929-80d48f5dba9d&pwd=mQFv&teamId=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&userId=7d7f0c92-b505-4fa6-b9ea-ec764b04eafa&activeSectionId=)|社交APP(高保真原型)|Axure+Sketch+Ps|[下载查看](https://github.com/icesuka/Project-0/tree/main/Newphile-%E5%89%AF%E6%9C%AC)|
 |[抖音(临摹)](https://lanhuapp.com/web/#/item/project/product?pid=8e03e3c1-0242-4804-bbb6-f041e21d3123&versionId=9608a965-0ec2-49e7-b11d-42c9dfa1ba27&docId=ad1e36c3-9a6a-443f-bd56-3b45872d27bd&docType=axure&pageId=6c481dc6ab6b49248cebbfa525cc45ce&image_id=ad1e36c3-9a6a-443f-bd56-3b45872d27bd&pwd=mQFv&teamId=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&userId=7d7f0c92-b505-4fa6-b9ea-ec764b04eafa&activeSectionId=)|全民App(线框图)|Axure+Sketch|[下载查看](https://github.com/icesuka/Project-0/tree/main/%E6%8A%96%E9%9F%B3%E4%B8%B4%E6%91%B9(%E7%BA%BF%E6%A1%86%E5%9B%BE-ios19.4.0))|
-|全新的APP(头脑风暴阶段)|垂直领域(高保真)|Sketch+Axure+Ps+`Javascirpt`|暂无|
+|全新的APP(头脑风暴阶段)|垂直领域(高保真原型)|Sketch+Axure+Ps+`Javascirpt`|暂无|
 ### 代码项目演示
 #### tips
 采用不同的技术栈，对某一维度的数据进行分析，使工作效率显著提高：
@@ -59,8 +59,8 @@
 
 | 主题 |  方法  | 主要技术栈 | 数据集来源 |
 | ---- |---- | ---- | ---- |
-|数据报表|离线处理|分析mysql/pandas+清洗pandas+可视化seaborn|[阿里云天池](https://tianchi.aliyun.com/?spm=5176.12282013.J_3941670930.9.4fdf13dehbY01G)/[kaggle](https://www.kaggle.com/datasets?topic=trendingDataset)/自建数据集|
-|《长津湖之水门桥》影评情感分析|离线处理|爬虫+分析pandas+可视化pyecharts+matplotlib|《[长津湖之水门桥](https://www.maoyan.com/films/1446115)》|
+|数据报表(未完成)|离线处理|分析mysql/pandas+清洗pandas+可视化seaborn|[阿里云天池](https://tianchi.aliyun.com/?spm=5176.12282013.J_3941670930.9.4fdf13dehbY01G)/[kaggle](https://www.kaggle.com/datasets?topic=trendingDataset)/自建数据集|
+|《长津湖之水门桥》影评情感分析(未完成)|离线处理|爬虫+分析pandas+可视化pyecharts+matplotlib|《[长津湖之水门桥](https://www.maoyan.com/films/1446115)》|
 ### 名词解释
 - `rp`:Axure生成的文件格式
 - `sketch`:Sketch生成的文件格式
