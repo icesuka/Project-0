@@ -60,7 +60,8 @@
 | 主题 |  方法  | 主要技术栈 | 数据集来源 |
 | ---- |---- | ---- | ---- |
 |[爬取“人人都是产品经理”网站的文章](https://mp.weixin.qq.com/s?__biz=MzU5NDgwMDcyMg==&mid=2247483670&idx=1&sn=e3db538617e81b861644c54a731360c2&chksm=fe7af82bc90d713d2f4f245f37cd028d0aae65ba9b1c5c735c9a9fc9de942b1bc9572c1a259e#rd)|在线+离线处理|爬虫requests+re+BeautifulSoup+xlwx+分析/清洗/可视化pandas|[人人都是产品经理](http://www.woshipm.com/)|
-|[爬取lpl春季赛常规赛和季后赛的数据](https://mp.weixin.qq.com/s?__biz=MzU5NDgwMDcyMg==&mid=2247483670&idx=1&sn=e3db538617e81b861644c54a731360c2&chksm=fe7af82bc90d713d2f4f245f37cd028d0aae65ba9b1c5c735c9a9fc9de942b1bc9572c1a259e#rd)|在线处理|爬虫+分析pandas+可视化pyecharts+matplotlib|[LPL官网](https://lpl.qq.com/esnew/data/rank.shtml?iGameId=167&sGameType=1,5)|
+|[爬取2022LPL春季赛常规赛和季后赛的数据](https://mp.weixin.qq.com/s?__biz=MzU5NDgwMDcyMg==&mid=2247483670&idx=1&sn=e3db538617e81b861644c54a731360c2&chksm=fe7af82bc90d713d2f4f245f37cd028d0aae65ba9b1c5c735c9a9fc9de942b1bc9572c1a259e#rd)|在线处理|爬虫selenium+openpyxl|[LPL官网](https://lpl.qq.com/esnew/data/rank.shtml?iGameId=167&sGameType=1,5)|
+|[2022LPL春季赛4强前瞻数据分析及其可视化](https://mp.weixin.qq.com/s?__biz=MzU5NDgwMDcyMg==&mid=2247483670&idx=1&sn=e3db538617e81b861644c54a731360c2&chksm=fe7af82bc90d713d2f4f245f37cd028d0aae65ba9b1c5c735c9a9fc9de942b1bc9572c1a259e#rd)|在线+离线处理|爬虫selenium+openpyxl+熟悉分析pandas+可视化pyecharts|[LPL官网](https://lpl.qq.com/esnew/data/rank.shtml?iGameId=167&sGameType=1,5)/[蜂鸟电竞](https://www.fnscore.cn/statistics.html)|
 ### 名词解释
 - `rp`:Axure生成的文件格式
 - `sketch`:Sketch生成的文件格式
