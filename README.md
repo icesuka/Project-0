@@ -46,8 +46,8 @@
 | 名称 | 定位 | 技术 | 源文件 |
 | ---- | ---- | ---- | ----- |
 |[Newphile](https://lanhuapp.com/url/kfxU3)|社交APP(高保真原型)|Axure+Sketch+Ps|[下载查看](https://github.com/icesuka/Project-0/tree/main/Newphile-%E5%89%AF%E6%9C%AC)|
-|[抖音(临摹)](https://lanhuapp.com/web/#/item/project/product?pid=8e03e3c1-0242-4804-bbb6-f041e21d3123&versionId=9608a965-0ec2-49e7-b11d-42c9dfa1ba27&docId=ad1e36c3-9a6a-443f-bd56-3b45872d27bd&docType=axure&pageId=6c481dc6ab6b49248cebbfa525cc45ce&image_id=ad1e36c3-9a6a-443f-bd56-3b45872d27bd&pwd=mQFv&teamId=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&userId=7d7f0c92-b505-4fa6-b9ea-ec764b04eafa&activeSectionId=)|全民App(线框图)|Axure+Sketch|[下载查看](https://github.com/icesuka/Project-0/tree/main/%E6%8A%96%E9%9F%B3%E4%B8%B4%E6%91%B9(%E7%BA%BF%E6%A1%86%E5%9B%BE-ios19.4.0))|
-|[盟芯](https://lanhuapp.com/web/#/item/project/product?tid=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&teamId=ef08cddc-40cd-4206-ba1d-e93d061a7bc4&pid=8e03e3c1-0242-4804-bbb6-f041e21d3123&project_id=8e03e3c1-0242-4804-bbb6-f041e21d3123&image_id=6578178a-5e33-46c0-93e6-a443c8729f3b&versionId=d12ff1ba-9425-4cc9-9ff3-e4f0d7e5175d&docId=6578178a-5e33-46c0-93e6-a443c8729f3b&docType=axure&pageId=e04317a6efc242bba519f988b990069f)|电竞APP(预计高保真，暂未完成)|Sketch+Axure+Ps+`Javascirpt`|[下载查看](https://github.com/icesuka/Project-0/tree/main/%E4%BB%8E0%E5%88%B01)|
+|[抖音(临摹)](https://lanhuapp.com/url/qPJew)|全民App(线框图)|Axure+Sketch|[下载查看](https://github.com/icesuka/Project-0/tree/main/%E6%8A%96%E9%9F%B3%E4%B8%B4%E6%91%B9(%E7%BA%BF%E6%A1%86%E5%9B%BE-ios19.4.0))|
+|[盟芯](https://lanhuapp.com/url/cT8D5)|电竞APP(预计高保真，暂未完成)|Sketch+Axure+Ps+`Javascirpt`|[下载查看](https://github.com/icesuka/Project-0/tree/main/%E4%BB%8E0%E5%88%B01)|
 ### 代码项目演示
 #### tips
 采用不同的技术栈，对某一维度的数据进行分析，使工作效率显著提高：
