@@ -36,7 +36,7 @@
 * 《[精益创业](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A.md)》  
 * 《[精益数据分析](https://github.com/icesuka/Project-0/blob/main/product%20manager%20markdown/%E7%B2%BE%E7%9B%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)》 
 ## 项目展示
-该部分为实践的demo集合，每个项目都有文档或导图加以辅助说明
+该部分为实践的demo集合，每个项目都有公众号文章/文档/导图加以辅助说明
 ### 原型文件演示
 #### tips
 采用**Axure**作为主要的原型绘制软件，**PS**、**Sketch**作为绘图辅助，**Xmind**为思维导图软件，**Office**文件为补充说明，期望达到以下目的：
