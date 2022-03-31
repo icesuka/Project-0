@@ -52,10 +52,11 @@
 ### 代码项目演示
 #### tips
 采用不同的技术栈，对某一维度的数据进行分析，使工作效率显著提高：
-* 数据建表、数据清洗、数据分析、数据可视化
+* 数据建表、数据清洗、数据分析、数据可视化、网络爬虫
 * 为原型产出提供数据支撑
-* 数据分析及可视化：`mysql`、`python`、`numpy`、`pandas`、`matplotlib`、`seaborn`、`pyecharts`  
-* 后期可能的发展方向：**爬虫**、**Axure&JavaScript高保真**
+* 数据分析及可视化：`mysql`、`python`、`numpy`、`pandas`、`matplotlib`、`seaborn`、`pyecharts` 
+* 爬虫：`requests`、`re`、`BeautifulSoup`、`Xpath`、`selenium` 
+* 后期可能的发展方向：**Axure&JavaScript高保真**
 #### list
 
 | 主题 |  方法  | 主要技术栈 | 数据集来源 | 源代码&源文件 |
