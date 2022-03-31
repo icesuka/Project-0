@@ -1,4 +1,5 @@
 # <p align="center">-1岁pm——开启从0向1的第一步</p>
+![image](https://github.com/icesuka/Project-0/blob/main/wxid/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.png)
 ![shy](https://img.shields.io/badge/state-更新中-green.svg)
 ![shy](https://img.shields.io/badge/原型-Axure-purple.svg)
 ![shy](https://img.shields.io/badge/contributor-1-pink.svg)
