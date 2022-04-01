@@ -62,8 +62,8 @@
 | 主题 |  方法  | 主要技术栈 | 数据集来源 | 源代码&源文件 |
 | ---- | ---- | ---- | ---- | ---- |
 |[爬取“人人都是产品经理”网站的文章](https://mp.weixin.qq.com/s?__biz=MzU5NDgwMDcyMg==&mid=2247483670&idx=1&sn=e3db538617e81b861644c54a731360c2&chksm=fe7af82bc90d713d2f4f245f37cd028d0aae65ba9b1c5c735c9a9fc9de942b1bc9572c1a259e#rd)|在线+离线处理|爬虫requests+re+BeautifulSoup+xlwx+分析/清洗/可视化pandas|[人人都是产品经理](http://www.woshipm.com/)|[下载查看](https://github.com/icesuka/Project-0/tree/main/woshipm)|
-|[爬取2022LPL春季赛常规赛和季后赛的数据](https://mp.weixin.qq.com/s?__biz=MzU5NDgwMDcyMg==&mid=2247483670&idx=1&sn=e3db538617e81b861644c54a731360c2&chksm=fe7af82bc90d713d2f4f245f37cd028d0aae65ba9b1c5c735c9a9fc9de942b1bc9572c1a259e#rd)|在线处理|爬虫selenium+openpyxl|[LPL官网](https://lpl.qq.com/esnew/data/rank.shtml?iGameId=167&sGameType=1,5)|[下载查看](https://github.com/icesuka/Project-0/tree/main/woshipm)|
-|[2022LPL春季赛4强前瞻数据分析及其可视化](https://mp.weixin.qq.com/s?__biz=MzU5NDgwMDcyMg==&mid=2247483670&idx=1&sn=e3db538617e81b861644c54a731360c2&chksm=fe7af82bc90d713d2f4f245f37cd028d0aae65ba9b1c5c735c9a9fc9de942b1bc9572c1a259e#rd)|在线+离线处理|爬虫selenium+openpyxl+数据分析pandas+可视化pyecharts|[LPL官网](https://lpl.qq.com/esnew/data/rank.shtml?iGameId=167&sGameType=1,5)/[蜂鸟电竞](https://www.fnscore.cn/statistics.html)|[下载查看](https://github.com/icesuka/Project-0/tree/main/woshipm)|
+|[爬取2022LPL春季赛常规赛和季后赛的数据](https://mp.weixin.qq.com/s?__biz=MzU5NDgwMDcyMg==&mid=2247483710&idx=1&sn=4869138c7fd0c197dd13adfe9a18bb93&chksm=fe7af803c90d7115404e81052bd0c276856471edfbdcc15b170d74219747f4dd4b0d9c836009&token=505719345&lang=zh_CN#rd)|在线处理|爬虫selenium+openpyxl|[LPL官网](https://lpl.qq.com/esnew/data/rank.shtml?iGameId=167&sGameType=1,5)|[下载查看](https://github.com/icesuka/Project-0/tree/main/LPL%E8%B5%9B%E4%BA%8B%E5%AE%98%E7%BD%91)|
+|2022LPL春季赛4强前瞻数据分析及其可视化|在线+离线处理|爬虫selenium+openpyxl+数据分析pandas+可视化pyecharts|[LPL官网](https://lpl.qq.com/esnew/data/rank.shtml?iGameId=167&sGameType=1,5)/[蜂鸟电竞](https://www.fnscore.cn/statistics.html)|[下载查看](https://github.com/icesuka/Project-0/tree/main/2022LPL%E6%98%A5%E5%AD%A3%E8%B5%9B-%E8%9C%82%E9%B8%9F%E7%94%B5%E7%AB%9E)|
 ### 名词解释
 - `rp`:Axure生成的文件格式
 - `sketch`:Sketch生成的文件格式
