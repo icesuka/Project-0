@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/themes/westeros.js"></script>
+
+</head>
+<body>
+    <div id="806fccd5995642edbd4e1aae9d49fb40" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_806fccd5995642edbd4e1aae9d49fb40 = echarts.init(
+            document.getElementById('806fccd5995642edbd4e1aae9d49fb40'), 'westeros', {renderer: 'canvas'});
+        var option_806fccd5995642edbd4e1aae9d49fb40 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "series": [
+        {
+            "type": "bar",
+            "name": "MVP\u6b21\u6570",
+            "legendHoverLink": true,
+            "data": [
+                1,
+                5,
+                7,
+                4,
+                7,
+                4,
+                4,
+                11,
+                10,
+                8,
+                10,
+                7,
+                10,
+                7,
+                2,
+                2,
+                2,
+                4,
+                1,
+                5
+            ],
+            "showBackground": false,
+            "stack": "s",
+            "barMinHeight": 0,
+            "barCategoryGap": "50%",
+            "barGap": "30%",
+            "large": false,
+            "largeThreshold": 400,
+            "seriesLayoutBy": "column",
+            "datasetIndex": 0,
+            "clip": true,
+            "zlevel": 0,
+            "z": 2,
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        },
+        {
+            "type": "bar",
+            "name": "\u51fa\u573a\u6b21\u6570",
+            "legendHoverLink": true,
+            "data": [
+                15,
+                17,
+                13,
+                16,
+                15,
+                14,
+                16,
+                17,
+                16,
+                18,
+                16,
+                17,
+                16,
+                18,
+                15,
+                16,
+                13,
+                17,
+                16,
+                16
+            ],
+            "showBackground": false,
+            "stack": "s",
+            "barMinHeight": 0,
+            "barCategoryGap": "50%",
+            "barGap": "30%",
+            "large": false,
+            "largeThreshold": 400,
+            "seriesLayoutBy": "column",
+            "datasetIndex": 0,
+            "clip": true,
+            "zlevel": 0,
+            "z": 2,
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "MVP\u6b21\u6570",
+                "\u51fa\u573a\u6b21\u6570"
+            ],
+            "selected": {
+                "MVP\u6b21\u6570": true,
+                "\u51fa\u573a\u6b21\u6570": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "xAxis": [
+        {
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "axisLabel": {
+                "rotate": 45
+            },
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "show": true,
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            },
+            "data": [
+                "Rich",
+                "369",
+                "Wayward",
+                "Bin",
+                "Karsa",
+                "Tian",
+                "Wei",
+                "Kanavi",
+                "Xiaohu",
+                "knight",
+                "Rookie",
+                "Yagao",
+                "Photic",
+                "JackeyLove",
+                "Hope",
+                "GALA",
+                "Mark",
+                "Missing",
+                "ppgod",
+                "Ming"
+            ]
+        }
+    ],
+    "yAxis": [
+        {
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "show": true,
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            }
+        }
+    ],
+    "title": [
+        {
+            "text": "LPL4\u5f3a\u961f\u4f0d5\u4f4d\u7f6eMVP\u6570\u91cf/\u51fa\u573a\u6570\u91cf",
+            "padding": 5,
+            "itemGap": 10
+        }
+    ]
+};
+        chart_806fccd5995642edbd4e1aae9d49fb40.setOption(option_806fccd5995642edbd4e1aae9d49fb40);
+    </script>
+</body>
+</html>
